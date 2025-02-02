@@ -132,9 +132,9 @@
         <section id="gallery" class="section">
             <h2>Multimedia Gallery</h2>
             <div class="gallery">
-                <img src="https://via.placeholder.com/300" alt="Church Image">
-                <img src="https://via.placeholder.com/300" alt="Festival Image">
-                <img src="https://via.placeholder.com/300" alt="Art Image">
+                <img src="ethio.jpg" alt="Church Image">
+                <img src="ethio2.jpg" alt="Festival Image">
+                <img src="ethio3.jpg" alt="Art Image">
             </div>
         </section>
     </div>
